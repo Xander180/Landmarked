@@ -13,6 +13,8 @@
 		600E0E222C2B4A6A005A0EAC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 600E0E212C2B4A6A005A0EAC /* Assets.xcassets */; };
 		600E0E272C2B4A93005A0EAC /* Location.swift in Sources */ = {isa = PBXBuildFile; fileRef = 600E0E262C2B4A93005A0EAC /* Location.swift */; };
 		600E0E2A2C2B4ADF005A0EAC /* LocationsDataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 600E0E292C2B4ADF005A0EAC /* LocationsDataService.swift */; };
+		600E0E2C2C2C55FF005A0EAC /* LocationsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 600E0E2B2C2C55FF005A0EAC /* LocationsView.swift */; };
+		600E0E2E2C2C5887005A0EAC /* LocationsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 600E0E2D2C2C5887005A0EAC /* LocationsViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +25,8 @@
 		600E0E212C2B4A6A005A0EAC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		600E0E262C2B4A93005A0EAC /* Location.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Location.swift; sourceTree = "<group>"; };
 		600E0E292C2B4ADF005A0EAC /* LocationsDataService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LocationsDataService.swift; sourceTree = "<group>"; };
+		600E0E2B2C2C55FF005A0EAC /* LocationsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationsView.swift; sourceTree = "<group>"; };
+		600E0E2D2C2C5887005A0EAC /* LocationsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationsViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +90,7 @@
 		600E0E242C2B4A7F005A0EAC /* View */ = {
 			isa = PBXGroup;
 			children = (
+				600E0E2B2C2C55FF005A0EAC /* LocationsView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -93,6 +98,7 @@
 		600E0E252C2B4A84005A0EAC /* ViewModel */ = {
 			isa = PBXGroup;
 			children = (
+				600E0E2D2C2C5887005A0EAC /* LocationsViewModel.swift */,
 			);
 			path = ViewModel;
 			sourceTree = "<group>";
@@ -176,7 +182,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				600E0E2A2C2B4ADF005A0EAC /* LocationsDataService.swift in Sources */,
+				600E0E2E2C2C5887005A0EAC /* LocationsViewModel.swift in Sources */,
 				600E0E162C2B48B7005A0EAC /* ContentView.swift in Sources */,
+				600E0E2C2C2C55FF005A0EAC /* LocationsView.swift in Sources */,
 				600E0E272C2B4A93005A0EAC /* Location.swift in Sources */,
 				600E0E142C2B48B7005A0EAC /* LandmarkedApp.swift in Sources */,
 			);
