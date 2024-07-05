@@ -11,5 +11,7 @@
 </p>
 
 ## Screenshots
-![Screenshot 2024-07-05 at 12 03 16 PM](https://github.com/Xander180/Landmarked/assets/67243244/bf361321-e70f-450b-b849-7e6ddb7e7b06)
-![Screenshot 2024-07-05 at 12 03 43 PM](https://github.com/Xander180/Landmarked/assets/67243244/59af48bd-f5b8-4107-b316-84b02976dc79)
+<p align="center">
+  <img src="https://github.com/Xander180/Landmarked/assets/67243244/bf361321-e70f-450b-b849-7e6ddb7e7b06">
+  <img src="https://github.com/Xander180/Landmarked/assets/67243244/59af48bd-f5b8-4107-b316-84b02976dc79">
+</p>
