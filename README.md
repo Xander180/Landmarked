@@ -6,7 +6,7 @@
 <h4 align="center">Wilson Ramirez | wilson.ramirez98@gmail.com | Final Version: TBD</h4>
 </div>
   <p align="center">
-    An application that lets you view various landmarks around the work, as well as information about them.</br>
+    An application that lets you view various landmarks around the world, as well as information about them.</br>
     Only 5 locations available. No more will be added in the foreseeable future, as this app is for demonstration purposes.
 </p>
 
