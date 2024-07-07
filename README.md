@@ -3,7 +3,7 @@
 <!-- PROJECT SHIELDS -->
 <div>
 <h2 align="center">Landmarked</h2>
-<h4 align="center">Wilson Ramirez | wilson.ramirez98@gmail.com | Final Version: TBD</h4>
+<h4 align="center">Wilson Ramirez | wilson.ramirez98@gmail.com | Final Version: 1.1.0</h4>
 </div>
   <p align="center">
     An application that lets you view various landmarks around the world, as well as information about them.</br>
